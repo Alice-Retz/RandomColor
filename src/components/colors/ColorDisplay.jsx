@@ -6,7 +6,7 @@ const ColorRender = ({ backgroundColor }) => {
     <div
       style={{
         backgroundColor,
-        width: '200px',
+        width: '300px',
         height: '200px',
       }}
     ></div>
